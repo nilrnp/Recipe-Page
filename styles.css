@@ -1,0 +1,17 @@
+*{
+  background-color: #E0E0CE;
+}
+
+h1, h2{
+  text-align: left;
+  color: #AD343E;
+}
+
+img{
+  height: auto;
+  width: 500px;
+}
+
+ul{
+  color: #AD343E;
+}
